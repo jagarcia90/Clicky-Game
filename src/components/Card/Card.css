@@ -1,11 +1,11 @@
 .card {
-  background: #fff;
+  background: rgb(223, 138, 12);
   border-radius: 2px;
   height: 250px;
   margin: 1rem;
   position: relative;
   width: 325px;
-  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  box-shadow: 2px 3px 6px #999, 0 6px 6px #999;
   text-align: left;
 }
 
@@ -13,7 +13,7 @@
   height: 100%;
   overflow: hidden;
   text-align: center;
-  background:#6CADDC;
+  background:rgb(250, 251, 252);
 }
 .card > .img-container > img {
   width: 60%
